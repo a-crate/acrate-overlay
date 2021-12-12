@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>acrate-overlay</name>
+    <description lang="en">acrate's personal gentoo overlay</description>
+    <homepage>https://github.com/a-crate/acrate-overlay</homepage>
+    <owner type="person">
+      <name>Amelia Crate</name>
+      <email>acrate@waldn.net</email>
+    </owner>
+    <source type="git">https://github.com/a-crate/acrate-overlay.git</source>
+  </repo>
+</repositories>
